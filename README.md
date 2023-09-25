@@ -12,7 +12,7 @@ I tried to use an API key from a dictionary to add the meanings of the words whi
 
 ## Installation
 
-There is an `exe` file in the "dist" folder if you would like to use this.
+There is an `exe` file if you would like to use this.
 
 ## Usage
 
